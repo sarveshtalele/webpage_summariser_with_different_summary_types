@@ -1,6 +1,6 @@
 # 🧠 Web Page Summarizer with LangChain & Groq
 
-[![Watch the Video Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Click%20Here-blue?style=for-the-badge)](https://github.com/your-username/your-repo-name/assets/your-video-id)
+[![Watch the Video](https://img.youtube.com/vi/ac4RRbuvXYk/0.jpg)](https://youtu.be/ac4RRbuvXYk)
 
 
 ---
